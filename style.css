@@ -1,0 +1,26 @@
+.form {
+  width: 75%;
+  margin: 0 auto;
+  text-align: center;
+}
+.TY {
+  background-color: pink;
+}
+
+.divflex {
+  height: 100px;
+  width: 100px;
+}
+
+.red {
+  background-color: rgb(243, 19, 19);
+}
+.blue {
+  background-color: blue;
+}
+.green {
+  background-color: green;
+}
+.orange {
+  background-color: orange;
+}
